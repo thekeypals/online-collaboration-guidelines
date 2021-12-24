@@ -62,15 +62,17 @@ Download the latest version of our Ableton Live User Library [here](https://gith
 
 ## File Management
 
-The easiest way to share files with each other online is via a shared cloud storage platform such as Google Drive or Dropbox, although this method is also the most likely to cause errors in performance and file-indexing.
+The easiest way to share projects with each other online is via a shared cloud storage platform such as Google Drive or Dropbox, although this method is also the most likely to cause errors in performance and file-indexing.
 
 For more details on the potential risks (and how to avoid them), read [this article](https://help.ableton.com/hc/en-us/articles/360002855960) on the Ableton website.
 
 We've found it best to work on projects locally (on our own computers) before compressing the **entire Project folder** and sharing with each other via the cloud.
 
-Note that before sharing an Ableton Live project with a collaborator you must first use the [Collect All and Save](https://help.ableton.com/hc/en-us/articles/209775645) function to collate all the referenced files. 
+Note that before sharing an Ableton Live project with a collaborator you must first use the [Collect All and Save](https://help.ableton.com/hc/en-us/articles/209775645) function to collate all the referenced files. This creates a copy of all samples used, and some other things, so that any user who opens your project should get it just as you created it.
 
-Also don't forget to create backups of your work! Ideally you want to have your work in at least two different places at all times, ideally three.
+The only thing that Ableton is unable to copy across are 3rd party plugins (VSTs). The only way to ensure that the person gets your full project, if you have used 3rd party plugins, is to resample any midi into audio files and to then select collect all and save.
+
+Don't forget to create backups of your work! Ideally you want to have your work in at least two different places at all times, ideally three.
 
 ## Naming Conventions
 
