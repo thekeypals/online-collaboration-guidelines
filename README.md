@@ -115,7 +115,7 @@ Below is a example of how The Beatles' shared Google Drive might have looked if 
 
 ### Unmixed Tracks
 
-*Individual tracks without processing. It’s always best practice to export your individual tracks as 'dry' as possible — meaning you should only include effects that are crucial to the sound of the instrument, but nothing more.*
+*Individual tracks without processing. It’s always best practice to export your individual tracks as 'dry' as possible - meaning you should only include effects that are crucial to the sound of the instrument, but nothing more.*
 
 | File Name                                    |
 | :--------------------------------------------|
