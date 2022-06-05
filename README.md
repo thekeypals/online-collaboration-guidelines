@@ -147,7 +147,7 @@ Below is a example of how The Beatles' shared Google Drive might have looked if 
 
 ## Collaborate
 
-For the opportunity to collaborate with the collective directly please complete [this form](https://forms.gle/574k9wzHYYDQj3798).
+Want to collaborate? Please complete [this form](https://forms.gle/574k9wzHYYDQj3798).
 
 ## Contact
 
