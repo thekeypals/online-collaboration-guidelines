@@ -105,13 +105,13 @@ Below is a example of how The Beatles' shared Google Drive might have looked if 
 
 | File Name                       |
 | :-------------------------------|
-| YellowSubmarine_STEM_BASS       |
-| YellowSubmarine_STEM_EFFECTS    |
-| YellowSubmarine_STEM_GUITARS    |
-| YellowSubmarine_STEM_KEYS       |
-| YellowSubmarine_STEM_OTHER      |
-| YellowSubmarine_STEM_PERCUSSION |
-| YellowSubmarine_STEM_VOCALS     |
+| YellowSubmarine_STEM_Bass       |
+| YellowSubmarine_STEM_Effects    |
+| YellowSubmarine_STEM_Guitars    |
+| YellowSubmarine_STEM_Keys       |
+| YellowSubmarine_STEM_Other      |
+| YellowSubmarine_STEM_Percussion |
+| YellowSubmarine_STEM_Vocals     |
 
 ### Unmixed Tracks
 
@@ -119,43 +119,39 @@ Below is a example of how The Beatles' shared Google Drive might have looked if 
 
 | File Name                                    |
 | :--------------------------------------------|
-| YellowSubmarine_TRACK_BASS_Electric          |
-| YellowSubmarine_TRACK_EFFECTS_Bells          |
-| YellowSubmarine_TRACK_EFFECTS_Bubbles        |
-| YellowSubmarine_TRACK_EFFECTS_Chains         |
-| YellowSubmarine_TRACK_EFFECTS_Whistles       |
-| YellowSubmarine_TRACK_GUITARS_Acoustic1      |
-| YellowSubmarine_TRACK_GUITARS_Acoustic2      |
-| YellowSubmarine_TRACK_OTHER_Cornet           |
-| YellowSubmarine_TRACK_OTHER_Trombone         |
-| YellowSubmarine_TRACK_OTHER_Tuba             |
-| YellowSubmarine_TRACK_PERCUSSION_BassDrum    |
-| YellowSubmarine_TRACK_PERCUSSION_CrashCymbal |
-| YellowSubmarine_TRACK_PERCUSSION_FloorTom    |
-| YellowSubmarine_TRACK_PERCUSSION_HighTom     |
-| YellowSubmarine_TRACK_PERCUSSION_HiHat       |
-| YellowSubmarine_TRACK_PERCUSSION_RideCymbal  |
-| YellowSubmarine_TRACK_PERCUSSION_SnareDrum   |
-| YellowSubmarine_TRACK_PERCUSSION_Tambourine  |
-| YellowSubmarine_TRACK_VOCALS_Lead_Melody     |
-| YellowSubmarine_TRACK_VOCALS_Lead_Stack1     |
-| YellowSubmarine_TRACK_VOCALS_Lead_Stack2     |
-| YellowSubmarine_TRACK_VOCALS_Lead_Harmony    |
-| YellowSubmarine_TRACK_VOCALS_Backing1        |
-| YellowSubmarine_TRACK_VOCALS_Backing2        |
-| YellowSubmarine_TRACK_VOCALS_Backing3        |
+| YellowSubmarine_TRACK_Bass_Electric          |
+| YellowSubmarine_TRACK_Effects_Bells          |
+| YellowSubmarine_TRACK_Effects_Bubbles        |
+| YellowSubmarine_TRACK_Effects_Chains         |
+| YellowSubmarine_TRACK_Effects_Whistles       |
+| YellowSubmarine_TRACK_Guitars_Acoustic1      |
+| YellowSubmarine_TRACK_Guitars_Acoustic2      |
+| YellowSubmarine_TRACK_Other_Cornet           |
+| YellowSubmarine_TRACK_Other_Trombone         |
+| YellowSubmarine_TRACK_Other_Tuba             |
+| YellowSubmarine_TRACK_Percussion_BassDrum    |
+| YellowSubmarine_TRACK_Percussion_CrashCymbal |
+| YellowSubmarine_TRACK_Percussion_FloorTom    |
+| YellowSubmarine_TRACK_Percussion_HighTom     |
+| YellowSubmarine_TRACK_Percussion_HiHat       |
+| YellowSubmarine_TRACK_Percussion_RideCymbal  |
+| YellowSubmarine_TRACK_Percussion_SnareDrum   |
+| YellowSubmarine_TRACK_Percussion_Tambourine  |
+| YellowSubmarine_TRACK_Vocals_Lead_Melody     |
+| YellowSubmarine_TRACK_Vocals_Lead_Stack1     |
+| YellowSubmarine_TRACK_Vocals_Lead_Stack2     |
+| YellowSubmarine_TRACK_Vocals_Lead_Harmony    |
+| YellowSubmarine_TRACK_Vocals_Backing1        |
+| YellowSubmarine_TRACK_Vocals_Backing2        |
+| YellowSubmarine_TRACK_Vocals_Backing3        |
 
-## Finding Collaborators
-
-If you're looking for people to collaborate with consider posting a call out on our subreddit [here](https://www.reddit.com/r/keypalswanted/).
+## Collaborate
 
 For the opportunity to collaborate with the collective directly please complete [this form](https://forms.gle/574k9wzHYYDQj3798).
 
 ## Contact
 
 If you have any questions or comments connect with us on Twitter [@thekeypals](https://twitter.com/intent/tweet?screen_name=thekeypals) or write to us at <mail@thekeypals.com>.
-
-Please consider supporting the collective's activities by making a small donation via [PayPal](https://www.paypal.com/donate?hosted_button_id=UNXSTNEB8LVQE).
 
 ## License
 
