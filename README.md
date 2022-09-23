@@ -14,8 +14,6 @@ Use the shortcut `Ctrl` + `D` (Windows) or `⌘` + `D` (Macintosh) to bookmark t
 * [Ableton Live User Library](#ableton-live-user-library)
 * [File Management](#file-management)
 * [Naming Conventions](#naming-conventions)
-* [Finding Collaborators](#finding-collaborators)
-* [Useful Links](#useful-links)
 * [Contact](#contact)
 * [License](#license)
 
@@ -144,10 +142,6 @@ Below is a example of how The Beatles' shared Google Drive might have looked if 
 | YellowSubmarine_TRACK_Vocals_Backing1        |
 | YellowSubmarine_TRACK_Vocals_Backing2        |
 | YellowSubmarine_TRACK_Vocals_Backing3        |
-
-## Collaborate
-
-Want to collaborate? Please complete [this form](https://forms.gle/574k9wzHYYDQj3798).
 
 ## Contact
 
